@@ -2,8 +2,7 @@
 
 
 # === Films ===
-
-#EXTINF:-1 ,tvg-id="About Fate"tvg-name="About Fate"tvg-logo="https://www.fredzone.org/wp-content/uploads/2022/12/About-Fate.jpg"group-title="Films",About Fate
+#EXTINF:-1 group-title="VOD", [Film],tvg-id="About Fate"tvg-name="About Fate"tvg-logo="https://www.fredzone.org/wp-content/uploads/2022/12/About-Fate.jpg"group-title="Films",About Fate
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/About%20Fate.m3u
 #EXTINF:-1 ,tvg-id="Gladiator II"tvg-name="Gladiator II"tvg-logo="https://www.franceinfo.fr/pictures/de_3413c7cSXrwxNq1nA3TGot3U/0x0:729x1080/fit-in/720x/filters:format(avif):quality(50)/2024/11/07/gladiator-ii-affiche-672d252c15dd6339950806.jpg"group-title="Films",Gladiator II
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Gladiator%20II.m3u
