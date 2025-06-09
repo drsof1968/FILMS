@@ -4,17 +4,17 @@
 # === Films ===
 #EXTINF:-1 group-title="VOD", [Film] tvg-id="About Fate"tvg-name="About Fate"tvg-logo="https://www.fredzone.org/wp-content/uploads/2022/12/About-Fate.jpg"group-title="Films",About Fate
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/About%20Fate.m3u
-#EXTINF:-1 ,tvg-id="Gladiator II"tvg-name="Gladiator II"tvg-logo="https://www.franceinfo.fr/pictures/de_3413c7cSXrwxNq1nA3TGot3U/0x0:729x1080/fit-in/720x/filters:format(avif):quality(50)/2024/11/07/gladiator-ii-affiche-672d252c15dd6339950806.jpg"group-title="Films",Gladiator II
+#EXTINF:-1 group-title="VOD", [Film] tvg-id="Gladiator II"tvg-name="Gladiator II"tvg-logo="https://www.franceinfo.fr/pictures/de_3413c7cSXrwxNq1nA3TGot3U/0x0:729x1080/fit-in/720x/filters:format(avif):quality(50)/2024/11/07/gladiator-ii-affiche-672d252c15dd6339950806.jpg"group-title="Films",Gladiator II
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Gladiator%20II.m3u
-#EXTINF:-1 ,tvg-id="Just Like Heaven"tvg-name="Just Like Heaven"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Just_like_Heaven_poster.jpg"group-title="Films",Just Like Heaven
+#EXTINF:-1 group-title="VOD", [Film] tvg-id="Just Like Heaven"tvg-name="Just Like Heaven"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Just_like_Heaven_poster.jpg"group-title="Films",Just Like Heaven
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Just%20Like%20Heaven.m3u
-#EXTINF:-1 ,L'autre Zoey
+#EXTINF:-1 group-title="VOD", [Film] L'autre Zoey
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/L'autre%20Zoey.m3u
-#EXTINF:-1 ,Overboard
+#EXTINF:-1 group-title="VOD", [Film] Overboard
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Overboard.m3u
-#EXTINF:-1 ,Upgraded
+#EXTINF:-1 group-title="VOD", [Film] Upgraded
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Upgraded.m3u
-#EXTINF:-1 ,legally blondes1
+#EXTINF:-1 group-title="VOD", [Film] legally blondes1
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/legally%20blondes1.m3u8
 #EXTINF:-1 ,legally blondes2
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/legally%20blondes2.m3u8
