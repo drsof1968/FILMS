@@ -16,21 +16,21 @@ https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Overboard.m3u
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Upgraded.m3u
 #EXTINF:-1 group-title="VOD", [Film] legally blondes1
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/legally%20blondes1.m3u8
-#EXTINF:-1 ,legally blondes2
+#EXTINF:-1 group-title="VOD", [Film] legally blondes2
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/legally%20blondes2.m3u8
-#EXTINF:-1 ,the Holiday
+#EXTINF:-1 group-title="VOD", [Film] the Holiday
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/the%20Holiday.m3u8
-#EXTINF:-1 ,My Old Ass
+#EXTINF:-1 group-title="VOD", [Film] My Old Ass
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/My%20Old%20Ass.m3u
-#EXTINF:-1 ,Back in Action
+#EXTINF:-1 group-title="VOD", [Film] Back in Action
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Back%20in%20Action.m3u
-#EXTINF:-1 ,A Working Man
+#EXTINF:-1 group-title="VOD", [Film] A Working Man
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/A%20Working%20Man.m3u
-#EXTINF:-1 ,Homefront
+ #EXTINF:-1 group-title="VOD", [Film] Homefront
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Homefront.m3u
-#EXTINF:-1 , The Union
+#EXTINF:-1 group-title="VOD", [Film] The Union
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/The%20Union.m3u
-#EXTINF:-1 ,Trigger Warning Riposte
+#EXTINF:-1 group-title="VOD", [Film] Trigger Warning Riposte
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Trigger%20Warning%20Riposte.m3u
 
 
