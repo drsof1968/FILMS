@@ -2,13 +2,15 @@
 
 
 # === Films ===
-#EXTINF:-1 group-title="VOD", [Film] tvg-id="About Fate"tvg-name="About Fate"tvg-logo="https://www.fredzone.org/wp-content/uploads/2022/12/About-Fate.jpg"group-title="Films",About Fate
+#EXTINF:-1 group-title="VOD", [Film] tvg-id="About Fate"tvg-name="About Fate"tvg-logo="https://www.fredzone.org/wp-content/uploads/2022/12/About-Fate.jpg",About Fate
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/About%20Fate.m3u
-#EXTINF:-1 group-title="VOD", [Film] tvg-id="Gladiator II"tvg-name="Gladiator II"tvg-logo="https://www.franceinfo.fr/pictures/de_3413c7cSXrwxNq1nA3TGot3U/0x0:729x1080/fit-in/720x/filters:format(avif):quality(50)/2024/11/07/gladiator-ii-affiche-672d252c15dd6339950806.jpg"group-title="Films",Gladiator II
+#EXTINF:-1 group-title="VOD", [Film] tvg-id="Gladiator II"tvg-name="Gladiator II"tvg-logo="https://www.franceinfo.fr/pictures/de_3413c7cSXrwxNq1nA3TGot3U/0x0:729x1080/fit-in/720x/filters:format(avif):quality(50)/2024/11/07/gladiator-ii-affiche-672d252c15dd6339950806.jpg",Gladiator II
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Gladiator%20II.m3u
-#EXTINF:-1 group-title="VOD", [Film] tvg-id="Just Like Heaven"tvg-name="Just Like Heaven"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Just_like_Heaven_poster.jpg"group-title="Films",Just Like Heaven
+#EXTINF:-1 group-title="VOD", [Film] tvg-id="Just Like Heaven"tvg-name="Just Like Heaven"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Just_like_Heaven_poster.jpg"",Just Like Heaven
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Just%20Like%20Heaven.m3u
-#EXTINF:-1 group-title="VOD", [Film] L'autre Zoey
+
+
+#EXTINF:-1 group-title="VOD", [Film] tvg-id="L'autre Zoey"tvg-name="L'autre Zoey"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e54daf0c83d45f58b90d8a67d2d3ffc2b98888c43ec8af76cfe4596286b98a68.jpg",L'autre Zoey
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/L'autre%20Zoey.m3u
 #EXTINF:-1 group-title="VOD", [Film] Overboard
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Overboard.m3u
@@ -37,10 +39,10 @@ https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Trigger%20Warn
 
 # === Chaînes TV ===
 
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="TV",Equidia
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="LIVE",Equidia
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="TV",Equidia HD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="LIVE",Equidia HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="TV",Equidia Racing Mag HD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="LIVE",Equidia Racing Mag HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8?checkedby:iptvcat.com
 
