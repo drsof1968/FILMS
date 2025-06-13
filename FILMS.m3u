@@ -4,12 +4,11 @@
 # === Films ===
 #EXTINF:-1 group-title="VOD", [Film] tvg-id="About Fate"tvg-name="About Fate"tvg-logo="https://www.fredzone.org/wp-content/uploads/2022/12/About-Fate.jpg",About Fate
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/About%20Fate.m3u
+
 #EXTINF:-1 group-title="VOD", [Film] tvg-id="Gladiator II"tvg-name="Gladiator II"tvg-logo="https://www.franceinfo.fr/pictures/de_3413c7cSXrwxNq1nA3TGot3U/0x0:729x1080/fit-in/720x/filters:format(avif):quality(50)/2024/11/07/gladiator-ii-affiche-672d252c15dd6339950806.jpg",Gladiator II
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Gladiator%20II.m3u
 #EXTINF:-1 group-title="VOD", [Film] tvg-id="Just Like Heaven"tvg-name="Just Like Heaven"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Just_like_Heaven_poster.jpg"",Just Like Heaven
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Just%20Like%20Heaven.m3u
-
-
 #EXTINF:-1 group-title="VOD", [Film] tvg-id="L'autre Zoey"tvg-name="L'autre Zoey"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e54daf0c83d45f58b90d8a67d2d3ffc2b98888c43ec8af76cfe4596286b98a68.jpg",L'autre Zoey
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/L'autre%20Zoey.m3u
 #EXTINF:-1 group-title="VOD", [Film] Overboard
@@ -28,21 +27,58 @@ https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/My%20Old%20Ass
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Back%20in%20Action.m3u
 #EXTINF:-1 group-title="VOD", [Film] A Working Man
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/A%20Working%20Man.m3u
- #EXTINF:-1 group-title="VOD", [Film] Homefront
+#EXTINF:-1 group-title="VOD", [Film] Homefront
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Homefront.m3u
 #EXTINF:-1 group-title="VOD", [Film] The Union
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/The%20Union.m3u
 #EXTINF:-1 group-title="VOD", [Film] Trigger Warning Riposte
 https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Trigger%20Warning%20Riposte.m3u
+#EXTINF:-1 group-title="VOD", [Film] Your Place Or Mine
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Your%20Place%20Or%20Mine.m3u
+#EXTINF:-1 group-title="VOD", [Film] With You in the Future
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/With%20You%20in%20the%20Future.m3u
+#EXTINF:-1 group-title="VOD", [Film] When Harry Met Sally
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/When%20Harry%20Met%20Sally.m3u
+#EXTINF:-1 group-title="VOD", [Film] Unfrosted
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Unfrosted.m3u
+#EXTINF:-1 group-title="VOD", [Film] The Rose of Versailles
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/The%20Rose%20of%20Versailles.m3u
+#EXTINF:-1 group-title="VOD", [Film] Rebel Ridge
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Rebel%20Ridge.m3u
+#EXTINF:-1 group-title="VOD", [Film] Players
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Players.m3u
+#EXTINF:-1 group-title="VOD", [Film] Our Little Secret
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Our%20Little%20Secret.m3u
+#EXTINF:-1 group-title="VOD", [Film] No Hard Feelings
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/No%20Hard%20Feelings.m3u
+#EXTINF:-1 group-title="VOD", [Film] My Spy The Eternal City
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/My%20Spy%20The%20Eternal%20City.m3u
+#EXTINF:-1 group-title="VOD", [Film] Mother of the Bride
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Mother%20of%20the%20Bride.m3u
+#EXTINF:-1 group-title="VOD", [Film] La Dolce Villa
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/La%20Dolce%20Villa.m3u
+#EXTINF:-1 group-title="VOD", [Film] Kinda Pregnant
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Kinda%20Pregnant.m3u
+#EXTINF:-1 group-title="VOD", [Film]Just go with it
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Just%20go%20with%20it.m3u
+#EXTINF:-1 group-title="VOD", [Film] Isn't It Romantic
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Isn't%20It%20Romantic.m3u
+#EXTINF:-1 group-title="VOD", [Film] He's All That
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/He's%20All%20That%20.m3u
+#EXTINF:-1 group-title="VOD", [Film] HOME AGAIN
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/HOME%20AGAIN.m3u
+#EXTINF:-1 group-title="VOD", [Film] Fifty Shades of grey
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Fifty%20Shades%20of%20grey.m3u
+#EXTINF:-1 group-title="VOD", [Film] Code 8
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Code%208.m3u
+#EXTINF:-1 group-title="VOD", [Film] Clueless
+https://raw.githubusercontent.com/drsof1968/FILMS/refs/heads/main/Clueless.m3u
 
 
 
-# === Chaînes TV ===
 
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="LIVE",Equidia
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="LIVE",Equidia HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="LIVE",Equidia Racing Mag HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8?checkedby:iptvcat.com
+
+
+
+
 
